@@ -1,4 +1,4 @@
-# binomial_theorem_notes
+# Combinatorics Notes
 youtube link to vandermonde's identity self explanation :  https://www.youtube.com/watch?v=g5AzICW1QKE 
 <img width="1916" height="1062" alt="image" src="https://github.com/user-attachments/assets/02e87451-00e0-4ce8-8df0-7667448a8c81" />
 <img width="1905" height="1053" alt="image" src="https://github.com/user-attachments/assets/02f5f055-8eae-451f-9f50-da31a90d920d" />
